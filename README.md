@@ -4,7 +4,7 @@
 StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.
 
 
-![mainpage](https://github.com/AnishAwadh/StudyNotion/assets/95581614/552f6183-d889-46c2-b55d-de10822205e6)
+![mainpage](https://github.com/snee-a/Study-Notion)
 
 
 
@@ -181,6 +181,8 @@ In conclusion, this document outlines the architecture, features, and functional
 
 
 Throughout the development of the project, various achievements will be made in terms of implementing the desired functionalities and creating a user-friendly interface. However, there will be challenges to be faced during the development process, such as integrating different technologies and debugging errors.
-#   S t u d y N o t i o n B y L a l i t  
- #   S t u d y - N o t i o n  
+#   S t u d y N o t i o n B y L a l i t 
+ 
+ #   S t u d y - N o t i o n 
+ 
  
